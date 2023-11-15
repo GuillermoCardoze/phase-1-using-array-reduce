@@ -12,4 +12,3 @@ const totalBatteries = batteryBatches.reduce((accumulator, currentValue) => accu
 
 console.log(totalBatteries);
 
-
